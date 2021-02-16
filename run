@@ -1,0 +1,11 @@
+python3 seatAssigner.py inputSpec
+
+python3 seatAssigner.py inputMultGroupsInRow
+
+python3 seatAssigner.py inputFrontAndBack
+
+python3 seatAssigner.py input1
+
+
+
+
